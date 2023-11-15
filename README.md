@@ -10,10 +10,10 @@ The website contains all the details about the Hackathon, including timelines, s
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/SaadSaid158/The-Forest-Hackathon
+   git clone https://github.com/foresthackathon/foresthackathon.github.io
 2. Navigate to the directory:
    ```sh
-   cd forest-school-hackathon-website
+   cd foresthackathon.github.io
 3. Install dependencies and run the project or edit it.
 
 # Deployment
